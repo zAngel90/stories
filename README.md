@@ -2,6 +2,8 @@
 
 Una aplicación de historias estilo Instagram construida con Next.js 14.
 
+Project URL: https://roadmap.sh/projects/stories-feature
+
 ## Características
 
 - Visualización de historias al estilo Instagram
